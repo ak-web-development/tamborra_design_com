@@ -1,0 +1,49 @@
+body {
+	background-image: url("images/main_bg.jpg");
+}
+
+#container {
+	width: 950px;
+	height: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 1px black;
+	background-color: #4CB7A5;
+}
+
+#header {
+	width: auto;
+	height: 120px;
+	border-bottom: solid 1px black;
+}
+
+#nav {
+	width: 200px;
+	height: 300px;
+	float: left;
+	border-right: solid 1px black;
+	border-bottom: solid 1px black;
+
+}
+
+#nav ul {
+	list-style-type: none;
+}
+
+#nav ul li {
+	padding-top: 15px;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	color: #ffff99;
+}
+
+#nav ul li a:hover {
+	color: black;
+}
+
+#content
+
+
+#footer
